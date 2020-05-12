@@ -1,8 +1,8 @@
-84f90582ee74317e03525e15f1289c2e *DESCRIPTION
+4dbeb859948266c643b8744e5ccfe6ca *DESCRIPTION
 f9d1c2f119b0c604af734494497e9b0c *LICENSE
 2ec5a9cc066026924554f7d9585ac0ff *NAMESPACE
-5570c8615aa7414694484b1b039a489a *NEWS.md
-831df8b40fc5a3dac355a0487facae80 *R/create_temp.R
+8936143b7a97757d228151b82ad181c2 *NEWS.md
+8d4e0e70fd31d52924463c60715fa1ae *R/create_temp.R
 d12c13162319aa42ed7539bc7d458c0b *README.md
 9f0cc81157bcb511ef7a9248abe82e34 *inst/rmarkdown/templates/bookdown_lite/skeleton/_bookdown.yml
 c20dd578d6aaa0df22e623862a3c39c7 *inst/rmarkdown/templates/bookdown_lite/skeleton/_build.sh
